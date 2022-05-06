@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92296699094",
+    "project_id": "social-network-26bad",
+    "storage_bucket": "social-network-26bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92296699094:android:e25d3a767bce2c99073d77",
+        "android_client_info": {
+          "package_name": "com.rasenyer.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92296699094-6d2pske2u1k82rtkkh01spap3l9tkni9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gE5POdeHJMThnLcRX3N6cDBpDdXkUUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92296699094-6d2pske2u1k82rtkkh01spap3l9tkni9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
