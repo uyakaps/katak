@@ -1,6 +1,9 @@
 # SocialNetwork
 Social network type application developed with Kotlin and Firebase.
 
+<h2>Tutorial on YouTube:</h2>
+https://www.youtube.com/watch?v=0FRJCUJ-21I&list=PLzdvnZ7umjM1M2SfhimKJQgT3_kJnssKy
+
 <h2>Used libraries:</h2>
 
 <h4>Firebase:</h4>
